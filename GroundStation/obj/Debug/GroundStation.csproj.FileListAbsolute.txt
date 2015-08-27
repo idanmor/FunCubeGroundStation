@@ -1,0 +1,24 @@
+C:\Users\idanmor88\Documents\Visual Studio 2013\Projects\GroundStation\GroundStation\bin\Debug\GroundStation.exe
+C:\Users\idanmor88\Documents\Visual Studio 2013\Projects\GroundStation\GroundStation\bin\Debug\GroundStation.pdb
+C:\Users\idanmor88\Documents\Visual Studio 2013\Projects\GroundStation\GroundStation\obj\Debug\GroundStation.Properties.Resources.resources
+C:\Users\idanmor88\Documents\Visual Studio 2013\Projects\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.GenerateResource.Cache
+C:\Users\idanmor88\Documents\Visual Studio 2013\Projects\GroundStation\GroundStation\obj\Debug\GroundStation.exe
+C:\Users\idanmor88\Documents\Visual Studio 2013\Projects\GroundStation\GroundStation\obj\Debug\GroundStation.pdb
+C:\Users\idanmor88\Documents\Visual Studio 2013\Projects\GroundStation\GroundStation\obj\Debug\GroundStation.TelemetryWindow.resources
+C:\Users\idanmor88\Documents\Visual Studio 2013\Projects\GroundStation\GroundStation\obj\Debug\GroundStation.csprojResolveAssemblyReference.cache
+C:\Users\lahish\Dropbox\פרוייקט גמר\תחנת קרקע איטרציה ב'\GroundStation\GroundStation\obj\Debug\GroundStation.exe
+C:\Users\lahish\Dropbox\פרוייקט גמר\תחנת קרקע איטרציה ב'\GroundStation\GroundStation\obj\Debug\GroundStation.pdb
+C:\Users\lahish\Dropbox\פרוייקט גמר\תחנת קרקע איטרציה ב'\GroundStation\GroundStation\bin\Debug\GroundStation.exe
+C:\Users\lahish\Dropbox\פרוייקט גמר\תחנת קרקע איטרציה ב'\GroundStation\GroundStation\bin\Debug\GroundStation.pdb
+C:\Users\lahish\Dropbox\פרוייקט גמר\תחנת קרקע איטרציה ב'\GroundStation\GroundStation\obj\Debug\GroundStation.csprojResolveAssemblyReference.cache
+C:\Users\lahish\Dropbox\פרוייקט גמר\תחנת קרקע איטרציה ב'\GroundStation\GroundStation\obj\Debug\GroundStation.TelemetryWindow.resources
+C:\Users\lahish\Dropbox\פרוייקט גמר\תחנת קרקע איטרציה ב'\GroundStation\GroundStation\obj\Debug\GroundStation.Properties.Resources.resources
+C:\Users\lahish\Dropbox\פרוייקט גמר\תחנת קרקע איטרציה ב'\GroundStation\GroundStation\obj\Debug\GroundStation.csproj.GenerateResource.Cache
+C:\Users\idanmor88\Documents\GitHub\FunCubeGroundStation\GroundStation\obj\Debug\GroundStation.exe
+C:\Users\idanmor88\Documents\GitHub\FunCubeGroundStation\GroundStation\obj\Debug\GroundStation.pdb
+C:\Users\idanmor88\Documents\GitHub\FunCubeGroundStation\GroundStation\bin\Debug\GroundStation.exe
+C:\Users\idanmor88\Documents\GitHub\FunCubeGroundStation\GroundStation\bin\Debug\GroundStation.pdb
+C:\Users\idanmor88\Documents\GitHub\FunCubeGroundStation\GroundStation\obj\Debug\GroundStation.csprojResolveAssemblyReference.cache
+C:\Users\idanmor88\Documents\GitHub\FunCubeGroundStation\GroundStation\obj\Debug\GroundStation.TelemetryWindow.resources
+C:\Users\idanmor88\Documents\GitHub\FunCubeGroundStation\GroundStation\obj\Debug\GroundStation.Properties.Resources.resources
+C:\Users\idanmor88\Documents\GitHub\FunCubeGroundStation\GroundStation\obj\Debug\GroundStation.csproj.GenerateResource.Cache
